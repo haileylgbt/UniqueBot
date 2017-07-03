@@ -9,6 +9,7 @@ commanderRoleID = "" #id of the role commanders have
 
 easterEggs = {
 "example":"Example response"
+"freeshavakadoo":"You pronounced that wrong."
 } #easter egg message dict. formatting: "call":"response". Do not use capitalization in the call! Remove the contents of the dict to disable easter eggs
 
 
